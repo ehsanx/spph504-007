@@ -8,7 +8,7 @@ This [PhD-level course](https://med-fom-spph.sites.olt.ubc.ca/files/2018/04/SPPH
 
 ### Contact
 
-- Feel free to [email](http://ehsank.com/) me for comments / suggestions.
+- Feel free to [email](https://ehsank.com/#contact) me for comments / suggestions.
 
 ![](504007.png)
 
