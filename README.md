@@ -1,6 +1,7 @@
 # SPPH 504-007: Application of Epidemiological Methods
 
-[Ehsan Karim](http://ehsank.com/)
+<div align="center"> Ehsan Karim </div>
+<div align="center"> [ehsank.com](http://ehsank.com/) </div>
 
 ### Description
 
@@ -10,7 +11,7 @@ This [PhD-level course](https://med-fom-spph.sites.olt.ubc.ca/files/2018/04/SPPH
 
 - Feel free to [email](https://ehsank.com/#contact) me for comments / suggestions.
 
-![](504007.png)
+<div align="center"> ![](images/504007.png) </div>
 
 ### Lab schedule
 
@@ -52,6 +53,12 @@ This [PhD-level course](https://med-fom-spph.sites.olt.ubc.ca/files/2018/04/SPPH
 ### References
 
 [UBC Library Online Course Reserves](https://courses.library.ubc.ca/instructorhome/id/136279)
+
+### Computing resources
+
+- [x] [Kaggle Kernel](https://www.kaggle.com/)
+- [x] [Google Colab](https://colab.research.google.com/notebooks/)
+- [x] [Jupyter for UBC](https://ubc.syzygy.ca/)
 
 ### Acknowledgements
 
