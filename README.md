@@ -40,8 +40,8 @@
 | 10 | 2 |  | [Lab 10b: Mediation analysis on the CCHS analytic dataset](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ehsanx/spph504-007/master/Lab10/Lab-10-2-mediation.html) |   HTML 
 | 10 | 3 |  | [Lab 10c: Mediation analysis (3 category mediator) on the CCHS analytic dataset](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ehsanx/spph504-007/master/Lab10/Lab-10-3-mediation.html) |   HTML
 | 10 | 4 |  | [Lab 10d: Mediation analysis using various R packages](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ehsanx/spph504-007/master/Lab10/Lab-10-4-mediation.html) |   HTML
-| 11 | 1 | Longitudinal Data (optional) | [Lab 11a: Mixed Effects Models](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ehsanx/spph504-007/master/Lab10/Lab-10-1-mediation.html) |   HTML
-| 11 | 2 |  | [Lab 11b: GEE](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ehsanx/spph504-007/master/Lab10/Lab-10-2-mediation.html) |   HTML 
+| 11 | 1 | Longitudinal Data (optional) | [Lab 11a: Mixed Effects Models](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ehsanx/spph504-007/master/Lab11/lab11partA.html) |   HTML
+| 11 | 2 |  | [Lab 11b: GEE](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ehsanx/spph504-007/master/Lab11/lab11partB.html) |   HTML 
 
 ## References
 
