@@ -2,17 +2,17 @@
 
 [Ehsan Karim](http://ehsank.com/)
 
-## Description
+### Description
 
 This [PhD-level course](https://med-fom-spph.sites.olt.ubc.ca/files/2018/04/SPPH-504-007-Course-Outline-Sep-2019.pdf) teaches research trainees emerging and advanced epidemiological methods, including statistical approaches for confounding, missingness and complex surveys towards the development of analysis plans, the analyzes and interpretation of real-world epidemiologic data and the communication of findings.
 
-## Contact
+### Contact
 
 - Feel free to [email](http://ehsank.com/) me for comments / suggestions.
 
-## Lecture schedule
+![](504007.png)
 
-![image](504007.png)
+### Lab schedule
 
 | # | Part | Topic | Lab Links | Source type |
 |---|---|-----------------|------------------------------------|-------|
@@ -49,6 +49,16 @@ This [PhD-level course](https://med-fom-spph.sites.olt.ubc.ca/files/2018/04/SPPH
 | 11 | 1 | Longitudinal Data (optional) | [Lab 11a: Mixed Effects Models](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ehsanx/spph504-007/master/Lab11/lab11partA.html) |   HTML
 | 11 | 2 |  | [Lab 11b: GEE](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ehsanx/spph504-007/master/Lab11/lab11partB.html) |   HTML 
 
-## References
+### References
 
 [UBC Library Online Course Reserves](https://courses.library.ubc.ca/instructorhome/id/136279)
+
+### Acknowledgements
+
+- Derek Ouyang/SPPH (acted as GTA for 2019-2020), 
+- M Atiquzzaman/Pharm (acted as GTA for 2018-2019) and 
+- course participants from 2019-2020 and 2018-2019.
+
+### Teaching-related web-Apps
+- [x] [Propensity scores by example](https://ehsanx.shinyapps.io/project1/)
+- [x] [Inverse probability weights by example](https://ehsanx.shinyapps.io/project0/)
