@@ -1,12 +1,18 @@
-# SPPH 504-007
+# SPPH 504-007: Application of Epidemiological Methods
 
-## Application of Epidemiological Methods
+[Ehsan Karim](http://ehsank.com/)
 
-- This [PhD-level course](https://med-fom-spph.sites.olt.ubc.ca/files/2018/04/SPPH-504-007-Course-Outline-Sep-2019.pdf) teaches research trainees emerging and advanced epidemiological methods, including statistical approaches for confounding, missingness and complex surveys towards the development of analysis plans, the analyzes and interpretation of real-world epidemiologic data and the communication of findings.
+## Description
 
-![image](504007.png)
+This [PhD-level course](https://med-fom-spph.sites.olt.ubc.ca/files/2018/04/SPPH-504-007-Course-Outline-Sep-2019.pdf) teaches research trainees emerging and advanced epidemiological methods, including statistical approaches for confounding, missingness and complex surveys towards the development of analysis plans, the analyzes and interpretation of real-world epidemiologic data and the communication of findings.
+
+## Contact
+
+- Feel free to [email](http://ehsank.com/) me for comments / suggestions.
 
 ## Lecture schedule
+
+![image](504007.png)
 
 | # | Part | Topic | Lab Links | Source type |
 |---|---|-----------------|------------------------------------|-------|
@@ -46,8 +52,3 @@
 ## References
 
 [UBC Library Online Course Reserves](https://courses.library.ubc.ca/instructorhome/id/136279)
-
-
-## Contact
-
-- Feel free to [email](http://ehsank.com/) me for comments / suggestions.
