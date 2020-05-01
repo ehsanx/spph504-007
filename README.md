@@ -6,10 +6,6 @@
 
 ![image](504007.png)
 
-## Contact
-
-- Feel free to [email](http://ehsank.com/) me for comments / suggestions.
-
 ## Lecture schedule
 
 | # | Part | Topic | Lab Links | Source type |
@@ -46,3 +42,12 @@
 | 10 | 4 |  | [Lab 10d: Mediation analysis using various R packages](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ehsanx/spph504-007/master/Lab10/Lab-10-4-mediation.html) |   HTML
 | 11 | 1 | Longitudinal Data (optional) | [Lab 11a: Mixed Effects Models](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ehsanx/spph504-007/master/Lab10/Lab-10-1-mediation.html) |   HTML
 | 11 | 2 |  | [Lab 11b: GEE](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ehsanx/spph504-007/master/Lab10/Lab-10-2-mediation.html) |   HTML 
+
+## References
+
+[UBC Library Online Course Reserves](https://courses.library.ubc.ca/instructorhome/id/136279)
+
+
+## Contact
+
+- Feel free to [email](http://ehsank.com/) me for comments / suggestions.
